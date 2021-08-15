@@ -1,0 +1,3 @@
+C:/Users/ibarr/CLionProjects/untitled/algoritmo de ordenamiento/cmake-build-debug/CMakeFiles/algoritmo_de_ordenamiento.dir
+C:/Users/ibarr/CLionProjects/untitled/algoritmo de ordenamiento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibarr/CLionProjects/untitled/algoritmo de ordenamiento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
